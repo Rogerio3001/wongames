@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+This is a game e-commerce created using React Avançado Course
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -35,10 +34,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
-
-## You can use this boilerplate with this commands
-
-```bash
-yarn create next-app -e https://github.com/Rogerio3001/Boilerplate
-```
-After that you need only change the name on package.json and change the files of /src and /public
