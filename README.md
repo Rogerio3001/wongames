@@ -1,4 +1,4 @@
-This is a game e-commerce
+This is a game e-commerce using strapi headless cms [wongames-api](https://github.com/Rogerio3001/wongames-api)
 ## What is inside?
 
 This project uses lot of stuff as:
