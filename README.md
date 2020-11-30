@@ -1,4 +1,4 @@
-This is a game e-commerce created using React Avançado Course
+This is a game e-commerce
 ## What is inside?
 
 This project uses lot of stuff as:
